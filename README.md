@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-[Deployed Link]()
+[Deployed Link](https://sorting-visualizer-by-neeraj.netlify.app/)
 
 ## Available Scripts
 
