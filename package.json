@@ -19,11 +19,12 @@
     "set-interval-async": "^2.0.3",
     "web-vitals": "^1.0.1"
   },
-  "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "./node_modules/.bin/netlify-lambda serve src",
-  "build": "react-scripts build"
-},
+ "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
