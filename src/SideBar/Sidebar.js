@@ -19,16 +19,14 @@ const Sidebar = () => {
         </div>
         <div className="github-logo-container">
           <GitHubIcon fontSize="large" />
-          <a
-            href="https://github.com/enzo33three"
+          <a href="https://github.com/enzo33three"
             target="_blank"
             rel="noreferrer"
           >
             view repo
           </a>
         </div>
-        <img
-          className="sidebar-visitor-badge"
+        <img className="sidebar-visitor-badge"
           src="https://visitor-badge.glitch.me/badge?page_id=enzo33three.sorting_visualizer"
           alt="visitor-badge"
         />
