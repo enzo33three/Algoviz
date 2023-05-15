@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# Algoviz Sorting Visualizer
 
 [Deployed Link](https://sorting-visualizer-by-neeraj.netlify.app/)
 
